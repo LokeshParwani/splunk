@@ -1,0 +1,9 @@
+2021-02-05 08:49:38,740 INFO com.demo.splunk.Splunk [main] Starting Splunk on Lokeshs-MBP with PID 21958 (started by lokeshparwani in /Users/lokeshparwani/Documents/Java code/hello/splunk)
+2021-02-05 08:49:38,742 INFO com.demo.splunk.Splunk [main] No active profile set, falling back to default profiles: default
+2021-02-05 08:49:39,319 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2021-02-05 08:49:39,319 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.30]
+2021-02-05 08:49:39,378 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2021-02-05 08:49:39,629 INFO com.demo.splunk.Splunk [main] Started Splunk in 1.152 seconds (JVM running for 1.535)
+2021-02-05 08:49:44,473 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8081-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-02-05 08:49:44,491 INFO com.demo.splunk.SplunkController [http-nio-8081-exec-1] Hi Splunk you are in Info mode
+2021-02-05 08:49:44,491 ERROR com.demo.splunk.SplunkController [http-nio-8081-exec-1] Hi Splunk you are in Error mode
